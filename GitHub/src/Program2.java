@@ -5,8 +5,8 @@ public class Program2 {
 		// TODO Auto-generated method stub
 		System.out.println("GitHub");
 		System.out.println("GitHub Sathya");
-		
-
-	}
+		System.out.println("GitHub Nanda");
+			
+			}
 
 }
