@@ -6,6 +6,7 @@ public class Program2 {
 		System.out.println("GitHub");
 		System.out.println("GitHub Sathya");
 		System.out.println("GitHub Sathya");
+		System.out.println("GitHub Sathya");
 		
 		
 
